@@ -5,7 +5,7 @@ The [monitor_resources.py](https://github.com/ambader/monitor_resources/blob/mai
 
 [](https://raw.githubusercontent.com/ugurcandede/Under-Construction/master/under%20building/Capture.PNG)
 ## Preview
-![png](sample/output_5_1.png)
+![png](sample/output_5_1.png) ![png](sample/output_3.png) 
 
 ## Sample
 
