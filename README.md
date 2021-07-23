@@ -86,16 +86,8 @@ test2.stop()
 test1.pd(test2.pd()).plot()
 ```
 
-
-
-
-    <AxesSubplot:>
-
-
-
-
     
-![png](output_3_1.png)
+![png](sample/output_3_1.png)
     
 
 
@@ -122,17 +114,8 @@ test3.stop()
 
 test1.pd(test2.pd()).plot()
 ```
-
-
-
-
-    <AxesSubplot:>
-
-
-
-
     
-![png](output_4_1.png)
+![png](sample/output_4_1.png)
     
 
 
@@ -150,15 +133,8 @@ axs[2].plot(test3.pd(),label=test3.inp_func, color=cc[2])
 
 
 
-    [<matplotlib.legend.Legend at 0x7ff7780c6760>,
-     <matplotlib.legend.Legend at 0x7ff7780c6c70>,
-     <matplotlib.legend.Legend at 0x7ff7780cd700>]
-
-
-
-
     
-![png](output_5_1.png)
+![png](sample/output_5_1.png)
     
 
 
